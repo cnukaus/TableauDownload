@@ -19,8 +19,13 @@ Automating Tableau Workbook Exports Using Python And Tabcmd Command Tool: http:/
 
 Excel manipulation included
 
+### Excel Trick:
+Paste value/format order counts!! value could impact format, so Macro needs topaste value first
+only noticed .PasteSpecial xlPasteColumnWidths ~now
 
-Power BI tricks:
+
+
+### Power BI tricks:
 
 
 HOW TO SOLVE if your Power BI table has multi dates, and you want a slice of only Latest date, because you can't filter using date=max(datecolumn)
