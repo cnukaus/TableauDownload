@@ -23,6 +23,10 @@ Excel manipulation included
 Paste value/format order counts!! value could impact format, so Macro needs topaste value first
 only noticed .PasteSpecial xlPasteColumnWidths ~now
 
+#### Pivot table over Pivot (as it's source)
+set pivot table option to "Classic pivot table" that each column is a flat field
+
+
 
 
 ### Power BI tricks:
