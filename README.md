@@ -26,7 +26,13 @@ only noticed .PasteSpecial xlPasteColumnWidths ~now
 #### Pivot table over Pivot (as it's source)
 set pivot table option to "Classic pivot table" that each column is a flat field
 
+### Tableau utilities you may not know
 
+https://yupengwu.com/2018/02/21/tableau-wildcard/ 数据解释器 data intepreter to deal with messy Excel formatted header etc
+
+wild card- read multiple data source files 用通配符，跨工作表建立数据源
+
+Primary Group - brings fields from auxilliary data source into primary source Tableau 技巧（99）：用 创建主组 解决数据融合的性能问题
 
 
 ### Power BI tricks:
